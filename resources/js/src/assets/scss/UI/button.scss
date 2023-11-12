@@ -1,0 +1,63 @@
+.button {
+    font-family: 'Bitcrusher';
+    display: flex;
+    padding: 10px 30px;
+    font-size: 20px;
+    line-height: 21px;gn: center;
+    letter-spacing: 0.05em;
+    transition: all .15s ease;
+    text-transform: uppercase;
+}
+
+.button-primary {
+    background: #03185B;
+    color: #FFFFFF;
+
+    &:hover {
+        background: #4666AF;
+        color: #FFFFFF;
+    }
+}
+
+.button-primary:disabled {
+    background: #343f57;
+}
+
+.button-default {
+    background: #FFFFFF;
+    font-size: 20px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #03185B;
+
+    &:hover {
+        background: #4666AF;
+        color: #FFFFFF;
+    }
+
+    &:disabled {
+        background: #556891;
+
+        &:hover {
+            color: #03185B;
+        }
+    }
+}
+
+.button-product {
+    padding: 10px 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    border: 1px solid #03185B;
+
+    &:hover {
+        border: 1px solid #4666AF;;
+    }
+
+    @media (max-width: 1023px) {
+        width: 225px;
+    }
+}
+

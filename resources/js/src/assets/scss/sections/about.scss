@@ -1,0 +1,45 @@
+#about {
+    padding: 40px 0 100px;
+    background: #F6FAFC;
+}
+
+.about {
+
+
+    &__header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        @media (max-width: 800px) {
+            flex-direction: column;
+            row-gap: 30px;
+            align-items: start;
+        }
+
+        &-title {
+            font-size: 50px;
+            line-height: 130%;
+            color: #03185B;
+        }
+
+        &-nav {
+            @media(max-width: 565px) {
+                width: 100%;
+            }
+
+        }
+    }
+}
+
+.about-nav-list {
+    @media (max-width: 565px) {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        row-gap: 1px;
+    }
+}
+
+.nav-link-about {
+    width: 100%;
+}

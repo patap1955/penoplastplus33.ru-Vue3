@@ -1,0 +1,240 @@
+@font-face {
+    font-family: 'Bitcrusher Cp Lt';
+    src: url('BitcrusherCpLt-Regular.eot');
+    src: local('BitcrusherCpLt-Regular'),
+        url('BitcrusherCpLt-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BitcrusherCpLt-Regular.woff2') format('woff2'),
+        url('BitcrusherCpLt-Regular.woff') format('woff'),
+        url('BitcrusherCpLt-Regular.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bitcrusher Cm El';
+    src: url('BitcrusherCmEl-Regular.eot');
+    src: local('BitcrusherCmEl-Regular'),
+        url('BitcrusherCmEl-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BitcrusherCmEl-Regular.woff2') format('woff2'),
+        url('BitcrusherCmEl-Regular.woff') format('woff'),
+        url('BitcrusherCmEl-Regular.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bitcrusher Cr Rg';
+    src: url('BitcrusherCrRg-Bold.eot');
+    src: local('BitcrusherCrRg-Bold'),
+        url('BitcrusherCrRg-Bold.eot?#iefix') format('embedded-opentype'),
+        url('BitcrusherCrRg-Bold.woff2') format('woff2'),
+        url('BitcrusherCrRg-Bold.woff') format('woff'),
+        url('BitcrusherCrRg-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bitcrusher Cm Rg';
+    src: url('BitcrusherCmRg-Bold.eot');
+    src: local('BitcrusherCmRg-Bold'),
+        url('BitcrusherCmRg-Bold.eot?#iefix') format('embedded-opentype'),
+        url('BitcrusherCmRg-Bold.woff2') format('woff2'),
+        url('BitcrusherCmRg-Bold.woff') format('woff'),
+        url('BitcrusherCmRg-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bitcrusher Cr El';
+    src: url('BitcrusherCrEl-Regular.eot');
+    src: local('BitcrusherCrEl-Regular'),
+        url('BitcrusherCrEl-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BitcrusherCrEl-Regular.woff2') format('woff2'),
+        url('BitcrusherCrEl-Regular.woff') format('woff'),
+        url('BitcrusherCrEl-Regular.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bitcrusher Cd Rg';
+    src: url('BitcrusherCdRg-Regular.eot');
+    src: local('BitcrusherCdRg-Regular'),
+        url('BitcrusherCdRg-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BitcrusherCdRg-Regular.woff2') format('woff2'),
+        url('BitcrusherCdRg-Regular.woff') format('woff'),
+        url('BitcrusherCdRg-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bitcrusher Cd El';
+    src: url('BitcrusherCdEl-Regular.eot');
+    src: local('BitcrusherCdEl-Regular'),
+        url('BitcrusherCdEl-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BitcrusherCdEl-Regular.woff2') format('woff2'),
+        url('BitcrusherCdEl-Regular.woff') format('woff'),
+        url('BitcrusherCdEl-Regular.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bitcrusher Cr Lt';
+    src: url('BitcrusherCrLt-Regular.eot');
+    src: local('BitcrusherCrLt-Regular'),
+        url('BitcrusherCrLt-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BitcrusherCrLt-Regular.woff2') format('woff2'),
+        url('BitcrusherCrLt-Regular.woff') format('woff'),
+        url('BitcrusherCrLt-Regular.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bitcrusher Cm Hv';
+    src: url('BitcrusherCmHv-Regular.eot');
+    src: local('BitcrusherCmHv-Regular'),
+        url('BitcrusherCmHv-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BitcrusherCmHv-Regular.woff2') format('woff2'),
+        url('BitcrusherCmHv-Regular.woff') format('woff'),
+        url('BitcrusherCmHv-Regular.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bitcrusher Cr Rg';
+    src: url('BitcrusherCrRg-Regular.eot');
+    src: local('BitcrusherCrRg-Regular'),
+        url('BitcrusherCrRg-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BitcrusherCrRg-Regular.woff2') format('woff2'),
+        url('BitcrusherCrRg-Regular.woff') format('woff'),
+        url('BitcrusherCrRg-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bitcrusher';
+    src: url('BitcrusherCpRg-Bold.eot');
+    src: local('BitcrusherCpRg-Bold'),
+        url('BitcrusherCpRg-Bold.eot?#iefix') format('embedded-opentype'),
+        url('BitcrusherCpRg-Bold.woff2') format('woff2'),
+        url('BitcrusherCpRg-Bold.woff') format('woff'),
+        url('BitcrusherCpRg-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bitcrusher Cm Lt';
+    src: url('BitcrusherCmLt-Regular.eot');
+    src: local('BitcrusherCmLt-Regular'),
+        url('BitcrusherCmLt-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BitcrusherCmLt-Regular.woff2') format('woff2'),
+        url('BitcrusherCmLt-Regular.woff') format('woff'),
+        url('BitcrusherCmLt-Regular.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bitcrusher Cd Lt';
+    src: url('BitcrusherCdLt-Regular.eot');
+    src: local('BitcrusherCdLt-Regular'),
+        url('BitcrusherCdLt-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BitcrusherCdLt-Regular.woff2') format('woff2'),
+        url('BitcrusherCdLt-Regular.woff') format('woff'),
+        url('BitcrusherCdLt-Regular.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bitcrusher Cd Rg';
+    src: url('BitcrusherCdRg-Bold.eot');
+    src: local('BitcrusherCdRg-Bold'),
+        url('BitcrusherCdRg-Bold.eot?#iefix') format('embedded-opentype'),
+        url('BitcrusherCdRg-Bold.woff2') format('woff2'),
+        url('BitcrusherCdRg-Bold.woff') format('woff'),
+        url('BitcrusherCdRg-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bitcrusher Cp El';
+    src: url('BitcrusherCpEl-Regular.eot');
+    src: local('BitcrusherCpEl-Regular'),
+        url('BitcrusherCpEl-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BitcrusherCpEl-Regular.woff2') format('woff2'),
+        url('BitcrusherCpEl-Regular.woff') format('woff'),
+        url('BitcrusherCpEl-Regular.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bitcrusher Cp Hv';
+    src: url('BitcrusherCpHv-Regular.eot');
+    src: local('BitcrusherCpHv-Regular'),
+        url('BitcrusherCpHv-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BitcrusherCpHv-Regular.woff2') format('woff2'),
+        url('BitcrusherCpHv-Regular.woff') format('woff'),
+        url('BitcrusherCpHv-Regular.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bitcrusher Cm Rg';
+    src: url('BitcrusherCmRg-Regular.eot');
+    src: local('BitcrusherCmRg-Regular'),
+        url('BitcrusherCmRg-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BitcrusherCmRg-Regular.woff2') format('woff2'),
+        url('BitcrusherCmRg-Regular.woff') format('woff'),
+        url('BitcrusherCmRg-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bitcrusher Cp Rg';
+    src: url('BitcrusherCpRg-Regular.eot');
+    src: local('BitcrusherCpRg-Regular'),
+        url('BitcrusherCpRg-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BitcrusherCpRg-Regular.woff2') format('woff2'),
+        url('BitcrusherCpRg-Regular.woff') format('woff'),
+        url('BitcrusherCpRg-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bitcrusher Cd Hv';
+    src: url('BitcrusherCdHv-Regular.eot');
+    src: local('BitcrusherCdHv-Regular'),
+        url('BitcrusherCdHv-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BitcrusherCdHv-Regular.woff2') format('woff2'),
+        url('BitcrusherCdHv-Regular.woff') format('woff'),
+        url('BitcrusherCdHv-Regular.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bitcrusher Cr Hv';
+    src: url('BitcrusherCrHv-Regular.eot');
+    src: local('BitcrusherCrHv-Regular'),
+        url('BitcrusherCrHv-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BitcrusherCrHv-Regular.woff2') format('woff2'),
+        url('BitcrusherCrHv-Regular.woff') format('woff'),
+        url('BitcrusherCrHv-Regular.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
